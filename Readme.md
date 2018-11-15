@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DateEditFilter.cs](./CS/DateRangeFilterCS/DateEditFilter.cs)
+* **[Window1.xaml](./CS/DateRangeFilterCS/Window1.xaml)**
+<!-- default file list end -->
 # Grid - How to change a column's filter popup using CustomColumnFilterPopupTemplate
 
 
