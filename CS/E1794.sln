@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateRangeFilterCS", "DateRangeFilterCS\DateRangeFilterCS.csproj", "{C834902C-B7E2-43C0-A737-C5C435483924}"
 EndProject
 Global
